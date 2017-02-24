@@ -3,10 +3,9 @@
 ## Briefing
 
 * [Feb 24-25 Briefing Packet](https://docs.google.com/document/d/1PEdZJ03WG3cgMZhT9vNbkQMmcNICZhsGM1B-Y4BrkBY/edit)
-* [Team Spreadsheet](https://docs.google.com/spreadsheets/d/1p4pW4fqVrwK6blf-NECaFuCwwisblU38HPauPnJwtU4/edit#gid=0)
+* [Register Team Spreadsheet](https://docs.google.com/spreadsheets/d/1p4pW4fqVrwK6blf-NECaFuCwwisblU38HPauPnJwtU4/edit#gid=0)
 * [Pitch Document](https://docs.google.com/document/d/1LdVbfub5kd0JDPsLduwZKCyYYRLdtbdORG8_hHCkplk/edit)
 * [Preso](http://bit.ly/MARTAhackPresoFeb17)
-* [Register Team](http://bit.ly/MARTAteamFeb2017)
 
 ## Data
 
