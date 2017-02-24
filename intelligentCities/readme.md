@@ -1,8 +1,8 @@
 #Intelligent Cities API Onboarding
 
-## [Powerpoint](onboarding.pptx)
+## Onboarding Powerpoint 
 
-Start here for intelligent cities APIs on-boarding process.  Current, powered by GE, provides traffic, parking, pedestrian, media (video/image on demand), environmental APIs with simulated data.
+Start [here](onboarding.pptx) for intelligent cities APIs on-boarding process.  Current, powered by GE, provides traffic, parking, pedestrian, media (video/image on demand), environmental APIs with simulated data.
 
 ## Postman Examples
 
