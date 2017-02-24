@@ -15,6 +15,7 @@
 * [data.gov Atlanta data](https://catalog.data.gov/dataset?q=atlanta&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=-142.03125%2C8.754794702435618%2C-59.0625%2C61.77312286453146&page=1)  
 * [Live car traffic data](http://www.511ga.org/#a_con_ctl&u_con_ctl&msg_ctl&h_inc_ctl&l_inc_ctl&vsp_ctl&cam_ctl&g_inf_ctl&spec_ctl&zoom=7&lat=3996483.9446&lon=-9392233.53605)  
 * [Code for Atlanta's list of open data](https://github.com/codeforatlanta/open-data)
+* [Relay Open Bike Share Data](https://relaybikeshare.socialbicycles.com/opendata)
 
 ## Developer Tools
 
