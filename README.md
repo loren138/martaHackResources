@@ -22,4 +22,5 @@
 
 * [Marta Developer Resources](http://www.itsmarta.com/app-developer-resources.aspx)
 * [Sample Intelligent Cities API Calls](intelligentCities/)
+* [Sample Realtime STAE API Calls](realtimeStae/)
 
