@@ -17,6 +17,7 @@
 * [Live car traffic data](http://www.511ga.org/#a_con_ctl&u_con_ctl&msg_ctl&h_inc_ctl&l_inc_ctl&vsp_ctl&cam_ctl&g_inf_ctl&spec_ctl&zoom=7&lat=3996483.9446&lon=-9392233.53605)  
 * [Code for Atlanta's list of open data](https://github.com/codeforatlanta/open-data)
 * [Relay Open Bike Share Data](https://relaybikeshare.socialbicycles.com/opendata)
+* Download [Routes](http://data.georgia.org/site/#routes), [Rail Stops](http://data.georgia.org/site/#marta), [Bus Stops](http://data.georgia.org/site/#transit) as CSV, KML, SHP, GeoJSON.
 
 ## Developer Tools
 
